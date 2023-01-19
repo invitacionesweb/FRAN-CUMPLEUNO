@@ -149,10 +149,13 @@ header .animales {
     padding: 40px 0;
     text-align: center;
     color: var(--color-terciario);
+    padding: auto;
+    margin: auto;
 }
 .story p {
     padding: 10px 30px;
     max-width: 430px;
+    margin: auto;
 }
 main {
     width: 100%;
@@ -228,6 +231,9 @@ main p {
 }
 .end img {
     width: 60px;
+}
+.end .imgend {
+    width: 120px;
 }
 .end h2{
     padding: 0;
