@@ -384,6 +384,9 @@ footer img {
         background-image: url(./img/Group.png);
         width: 100%;
     }
+    .end .imgend {
+        width: 180px;
+    }
    
     .f1, .f2, .f3 {
         display: none;
