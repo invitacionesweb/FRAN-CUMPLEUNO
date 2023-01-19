@@ -226,6 +226,7 @@ main p {
     color: var(--color-terciario);
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 10px;
     
 }
@@ -385,7 +386,7 @@ footer img {
         width: 100%;
     }
     .end .imgend {
-        width: 70VW;
+        width: 220PX;
     }
    
     .f1, .f2, .f3 {
