@@ -231,21 +231,11 @@ main p {
     
 }
 .end img {
-    width: 60px;
+    width: 100%;
+    max-width: 430px;
 }
-.end .imgend {
-    width: 120px;
-}
-.end h2{
-    padding: 0;
-    margin: 0;
-    font-size: 2em;
-}
-.end h3{
-    padding: 0;
-    margin: 0;
-    font-size: 1.2em;
-}
+
+
 .gifts {
     padding: 40px 0 40px 0;
     text-align: center;
