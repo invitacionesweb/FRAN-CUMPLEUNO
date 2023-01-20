@@ -244,6 +244,7 @@ main p {
     background-image: url(./img/Group.png);
     background-size: cover;
     background-repeat: no-repeat;
+    opacity: 80%;
     
    
 }
